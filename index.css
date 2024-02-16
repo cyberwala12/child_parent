@@ -1,0 +1,32 @@
+#p{
+    height: 400px;
+    width: 400px;
+    background: rgb(151, 23, 23);
+    margin: auto;
+    position: relative; 
+}
+.comm{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+.c1{
+    background:orange;
+    top: 0px;
+    right: 0px;
+}
+.c2{
+    background: pink;
+    top: 0px;
+    left: 0px;
+}
+.c3{
+    background: olivedrab;
+    bottom: 0px;
+    right: 0px;
+}
+.c4{
+    background: green;
+    bottom: 0px;
+    left: 0px;
+}
